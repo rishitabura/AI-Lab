@@ -72,6 +72,11 @@
         "xlocbuf": "cpp",
         "xlocmes": "cpp",
         "xlocmon": "cpp",
-        "xloctime": "cpp"
-    }
+        "xloctime": "cpp",
+        "numeric": "cpp"
+    },
+    "java.project.sourcePaths": [
+        "informed-search/routing",
+        "csp"
+    ]
 }
